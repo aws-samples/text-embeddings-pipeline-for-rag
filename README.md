@@ -1,6 +1,6 @@
 # Text Embeddings Pipeline for Retrieval Augmented Generation (RAG)
 
-This solution is a pipeline to convert contextual knowledge stored in documents and databases into text embeddings, and store them in a vector store. Chat bots built with Large Language Models (LLMs) can perform a similarity search on the vector store to retrieve the contextual knowledge before responding to the end users. This technique is known as Retrieval Augmented Generation (RAG), and it is often used to improve the quality of the responses and reduce the chance of hallucinations.
+This solution is a pipeline to convert contextual knowledge stored in documents and databases into text embeddings, and store them in a vector store. Applications built with Large Language Models (LLMs) can perform a similarity search on the vector store to retrieve the contextual knowledge before generating a response. This technique is known as Retrieval Augmented Generation (RAG), and it is often used to improve the quality and accuracy of the responses.
 
 ## ❗ Warning ❗
 
